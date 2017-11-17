@@ -9,7 +9,7 @@ exports.reply = function justReply(req, res) {
 
         var target_albumId = "";
 
-        if( msg.includes( 抽正妹 ) ){
+        if( msg.includes( 抽妹妹 ) ){
             target_albumId = kaoyii ;
         }else{
             return;
